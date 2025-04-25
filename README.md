@@ -1,4 +1,4 @@
-#Shadowsocks-simpleobfs-auto-setup
+**Shadowsocks-simpleobfs-auto-setup**
 
 Este script te ayudará a crear tu propio servidor Shadowsocks con soporte para simple-obfs de forma automática.
 
