@@ -1,11 +1,34 @@
-# Shadowsocks-simpleobfs-auto-setup
-Este script te ayudara a crear tu propio servidor shadowsocks.
+Shadowsocks-simpleobfs-auto-setup
 
-Como requisito necesitas un vps con Debian/Ubuntu y poder conectarte vía ssh.
+Este script te ayudará a crear tu propio servidor Shadowsocks con soporte para simple-obfs de forma automática.
 
+Requisitos
+
+Un VPS con Debian o Ubuntu.
+
+Acceso SSH al servidor.
+
+Tener instalado git.
+
+
+Instalación
+
+1. Clona este repositorio:
+
+```bash
 git clone https://github.com/Angel19-Sys/Shadowsocks-simpleobfs-auto-setup.git
 
+cd Shadowsocks-simpleobfs-auto-setup
+```
+
+
+2. Ejecuta el script de instalación:
+
+```bash
 bash shadowsocks.sh
+```
 
 
-listo, automáticamente te dara una salida con la información que debes llenar en la app de shadowsocks
+Resultado
+
+Al finalizar, el script te mostrará automáticamente la información que necesitas para configurar la app de Shadowsocks en tu dispositivo.
