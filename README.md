@@ -16,7 +16,6 @@ Instalación
 1. Clona este repositorio:
 
 ```bash
-```bash
 git clone https://github.com/Angel19-Sys/Shadowsocks-simpleobfs-auto-setup.git
 cd Shadowsocks-simpleobfs-auto-setup
 ```
